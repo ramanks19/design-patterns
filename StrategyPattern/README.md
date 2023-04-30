@@ -16,4 +16,5 @@ As an example, in the Main class, we have created an instance of SportsVehicle a
 
 
 **When to use Strategy Pattern?**
+
 It is useful when we have multiple algorithms that can be used to solve a problem, and we need to switch between these algorithms dynamically at runtime. The pattern allows us to encapsulate each algorithm as a separate class, and make them interchangeable within the same family of algorithms.
