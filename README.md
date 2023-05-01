@@ -14,7 +14,7 @@ We must use the design patterns during the analysis and requirement phase of SDL
 **Categorization of Design Patterns:**
 - **Creational Design Patterns**: These patterns focus on object creation mechanisms, trying to create objects in a manner suitable for the situation. Some of the examples are: Factory Pattern, Abstract Factory Pattern, Singleton Pattern, Prototype Pattern, Builder Pattern.
 - **Structural Design Patterns**: These patterns deal with object composition to form larger structures, while keeping the individual objects intact. Some of the examples are: Adapter Pattern, Bridge Pattern, Composite Pattern, Decorator Pattern, Facade Pattern, Proxy Pattern.
-- **Behavioural Design Patterns**: These patterns focus on communication between objects, with the emphasis on how objects distribute responsibility. Some of the examples are: Command Pattern, Iterator Pattern, Observer Pattern, State Pattern, [Strategy Pattern](https://github.com/ramanks19/design-patterns/tree/main/StrategyPattern), Template Pattern.
+- **Behavioural Design Patterns**: These patterns focus on communication between objects, with the emphasis on how objects distribute responsibility. Some of the examples are: Command Pattern, Iterator Pattern, [Observer Pattern](https://github.com/ramanks19/design-patterns/tree/main/ObserverPattern), State Pattern, [Strategy Pattern](https://github.com/ramanks19/design-patterns/tree/main/StrategyPattern), Template Pattern.
 
 
 
