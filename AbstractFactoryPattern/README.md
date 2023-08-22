@@ -17,6 +17,11 @@ The FurnitureShopSimulator demonstrates how to use the abstract factory to creat
 This implementation follows the Abstract Factory Pattern, allowing you to create families of related products (furniture items) with different variants (styles) while keeping the client code decoupled from the actual implementations.
 
 
+**When to implement it** - 
+- Use the Abstract Factory when your code needs to work with various families of related products, but you don’t want it to depend on the concrete classes of those products—they might be unknown beforehand or you simply want to allow for future extensibility.
+- Consider implementing the Abstract Factory when you have a class with a set of Factory Methods that blur its primary responsibility.
+
+
 **Pros**
 - You can be sure that the products you’re getting from a factory are compatible with each other.
 - You avoid tight coupling between concrete products and client code, thereby following Single Responsibility Principle.
