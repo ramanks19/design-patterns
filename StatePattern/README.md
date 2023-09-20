@@ -3,7 +3,7 @@
 **A behavioral design pattern that allows an object to alter its behavior when its internal state changes.**
 
 
-**Steps to create a Singleton Class**
+**Steps to implement State Pattern**
 - **Identify the Context:** Identify the class that will have its behavior controlled by changing states.
 - **Define the State Interface:** Create an interface (or an abstract class) that defines the methods that represent the behavior of different states. Each concrete state class will implement this interface.
 - **Create Concrete State Classes:** Implement concrete classes that represent different states and implement the methods defined in the state interface. These classes will encapsulate the behavior associated with each state.
